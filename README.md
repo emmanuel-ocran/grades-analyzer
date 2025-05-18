@@ -3,7 +3,7 @@
 This is a simple and interactive web application built with **Streamlit**. It allows users to input student names and their corresponding scores, then analyzes and displays useful class performance statistics.
 
 ## Live Demo
-Try the app here 👉 [Student Grades Analyzer](https://student-grade-analyzer.streamlit.app)
+Try the app here 👉 [Student Grades Analyzer](https://student-grades-analyzer.streamlit.app/)
 
 ## Features
 
